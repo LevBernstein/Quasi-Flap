@@ -1,6 +1,7 @@
 # CS101 Processing Project: Quasi-Flap
 
 Authors: Nicole Ng, Lev Bernstein
+Date: November 2019
 
 A flappy-bird-esque game written in Java, using Processing. A few major differences:
 Instead of pressing a key to jump, you press a key to gain altitude. You are falling at all other times.
