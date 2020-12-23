@@ -1,6 +1,7 @@
 # CS101 Processing Project: Quasi-Flap
 
 Authors: Nicole Ng, Lev Bernstein
+
 Date: November 2019
 
 A flappy-bird-esque game written in Java, using Processing. A few major differences:
